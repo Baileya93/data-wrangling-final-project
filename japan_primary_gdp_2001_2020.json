@@ -1,0 +1,27 @@
+[
+    {
+        "column_name": "Country Name",
+        "data_type": "string",
+        "description": "Name of the country (Japan in this dataset)"
+    },
+    {
+        "column_name": "Country Code",
+        "data_type": "string",
+        "description": "ISO 3-letter code of the country"
+    },
+    {
+        "column_name": "Year",
+        "data_type": "integer",
+        "description": "Year of observation (2001-2020)"
+    },
+    {
+        "column_name": "Primary_Enrollment",
+        "data_type": "float",
+        "description": "Primary school enrollment (% of eligible children enrolled)"
+    },
+    {
+        "column_name": "GDP_per_capita",
+        "data_type": "float",
+        "description": "Gross Domestic Product per capita in current US dollars"
+    }
+]
